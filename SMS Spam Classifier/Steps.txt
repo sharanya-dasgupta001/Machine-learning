@@ -1,0 +1,4 @@
+python & jupyter notebook
+skitlearn
+nltk
+nltk_data
